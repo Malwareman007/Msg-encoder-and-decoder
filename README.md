@@ -1,5 +1,5 @@
 # Msg-encoder-and-decoder (GUI)
-
+* It is using base64 encryption algo.
 
 ![Screenshot 2022-04-29 223941](https://user-images.githubusercontent.com/78251168/165991800-cd538706-c9b8-4d41-9236-ae76cf122a79.png)
 ![asdfasd](https://user-images.githubusercontent.com/78251168/165991806-80b6b320-93a2-4666-b212-478660f2ec5a.png)
